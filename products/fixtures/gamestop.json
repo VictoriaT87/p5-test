@@ -1,0 +1,35 @@
+[
+  {
+    "model": "products.games",
+    "pk": 1,
+    "fields": {
+      "url": "https://www.gamestop.com/collectibles/funko/pop/products/funko-pop-animation-dragon-ball-super-gohan-metallic--3.75-in-vinyl-figure-gamestop-exclusive/11098612.html",
+      "title": "Funko POP! Animation: Dragon Ball Super Gohan Metallic  3.75-in Vinyl Figure GameStop Exclusive",
+      "brand": "Funko",
+      "sku": 209297,
+      "price": 11.99,
+      "product_type": "New",
+      "game_platform": "",
+      "operating_systems": "",
+      "image": "https://static-ie.gamestop.ie/images/products/280448/3max.jpg",
+      "description": "Goku’s eldest son, Gohan, joins his father in the fight to defend Earth from destruction. Build the Dragon Team in your Dragon Ball Super collection with this GameStop exclusive Metallic Pop! Gohan.Vinyl figure is approximately 3.75-inches tall.",
+      "average_rating": 3.7917
+    }
+  },
+  {
+    "model": "products.games",
+    "pk": 2,
+    "fields": {
+      "url": "https://www.gamestop.com/clothing/accessories-watches/sunglasses-eyewear/products/felix-gray-roebling-narrow-medium-frame-blue-light-glasses/11164797.html",
+      "title": "Felix Gray Roebling Narrow/Medium Frame Blue Light Glasses",
+      "brand": "Felix Gray",
+      "sku": 315356,
+      "price": 95,
+      "game_platform": "",
+      "operating_systems": "",
+      "image": "https://media.gamestop.com/i/gamestop/11164797/Felix-Gray-Roebling-Narrow/Medium-Frame-Blue-Light-Glasses",
+      "description": "Housed in beautiful frames handcrafted from Italian Acetate. A sophisticated circular shape that fits perfectly on almost any face shape. The Roebling’s signature keyhole bridge and terrific frame sits beautifully and comfortably as you look at your screen.",
+      "average_rating": 5
+    }
+  }
+]

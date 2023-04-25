@@ -1,0 +1,15 @@
+[
+    {
+      "model": "products.product",
+      "pk": 1,
+      "fields": {
+        "app_id": 10090, 
+        "title": "Call of Duty: World at War",
+        "date_release": "2008-11-18",
+        "price": 53.99,
+        "rating": "Very Positive",
+        "positive_ratio": 92
+      }
+    }
+  ]
+  

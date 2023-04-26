@@ -19,120 +19,32 @@
         "pk": 3,
         "model": "products.brand",
         "fields": {
-            "name": "sega",
-            "friendly_name": "Sega"
+            "name": "hasbro",
+            "friendly_name": "Hasbro"
         }
     },
     {
         "pk": 4,
         "model": "products.brand",
         "fields": {
-            "name": "ea",
-            "friendly_name": "EA"
+            "name": "sideshow",
+            "friendly_name": "Sideshow"
         }
     },
     {
         "pk": 5,
         "model": "products.brand",
         "fields": {
-            "name": "disney",
-            "friendly_name": "Disney"
+            "name": "dark_horse",
+            "friendly_name": "Dark Horse"
         }
     },
     {
         "pk": 6,
         "model": "products.brand",
         "fields": {
-            "name": "activision",
-            "friendly_name": "Activision"
-        }
-    },
-    {
-        "pk": 7,
-        "model": "products.brand",
-        "fields": {
-            "name": "bandai",
-            "friendly_name": "Bandai"
-        }
-    },
-    {
-        "pk": 8,
-        "model": "products.brand",
-        "fields": {
-            "name": "bethesda",
-            "friendly_name": "Bethesda"
-        }
-    },
-    {
-        "pk": 9,
-        "model": "products.brand",
-        "fields": {
-            "name": "fifth_sun",
-            "friendly_name": "Fifth Sun"
-        }
-    },
-    {
-        "pk": 10,
-        "model": "products.brand",
-        "fields": {
-            "name": "geeknet",
-            "friendly_name": "GeekNet"
-        }
-    },
-    {
-        "pk": 11,
-        "model": "products.brand",
-        "fields": {
-            "name": "hasbro",
-            "friendly_name": "Hasbro"
-        }
-    },
-    {
-        "pk": 12,
-        "model": "products.brand",
-        "fields": {
-            "name": "konami",
-            "friendly_name": "Konami"
-        }
-    },
-    {
-        "pk": 13,
-        "model": "products.brand",
-        "fields": {
-            "name": "la_pop_art",
-            "friendly_name": "LA Pop Art"
-        }
-    },
-    {
-        "pk": 14,
-        "model": "products.brand",
-        "fields": {
-            "name": "sony",
-            "friendly_name": "Sony"
-        }
-    },
-    {
-        "pk": 15,
-        "model": "products.brand",
-        "fields": {
-            "name": "pokemon",
-            "friendly_name": "Pokemon"
-        }
-    },
-    {
-        "pk": 16,
-        "model": "products.brand",
-        "fields": {
-            "name": "thq",
-            "friendly_name": "THQ"
-        }
-    },
-    {
-        "pk": 17,
-        "model": "products.brand",
-        "fields": {
-            "name": "ubisoft",
-            "friendly_name": "Ubisoft"
+            "name": "pure_arts",
+            "friendly_name": "Pure Arts"
         }
     }
 ]
